@@ -104,7 +104,7 @@ main {
   }
 }
 
-@media (width >=1440px) {
+@media (width >=1200px) {
   body {
     background: url(images/bg-pattern-top-desktop.svg),
       url(images/bg-pattern-bottom-desktop.svg);
